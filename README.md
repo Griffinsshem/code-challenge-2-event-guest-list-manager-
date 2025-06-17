@@ -62,6 +62,7 @@ event-guest-list/
   - Clone or download the repository
 
   ```git clone https://github.com/your-username/event-guest-list.git```
+  
   ```cd event-guest-list```
 
   - Open index.html in your browser
@@ -79,4 +80,5 @@ event-guest-list/
 ## Author
 
 Your Name: Griffins Ondeyo
+
 GitHub: @Griffinsshem
