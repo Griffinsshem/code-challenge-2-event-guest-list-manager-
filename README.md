@@ -7,10 +7,12 @@
 ## Features
 
   - Add guest names to the list (up to a maximum of 10 guests)
+
   - Toggle RSVP status between Attending and Not Attending
+
   - Remove guests from the list
-  - Form input validation and reset after submission
-  - Responsive layout and intuitive UI
+
+  - Form input validation and reset after 
 
 ## Project Structure
 
@@ -31,7 +33,7 @@ event-guest-list/
 
   - Contains a form with an input field and a submit button to add guest names.
 
-  - Displays the list of guests using an ordered list (<ol>).
+  - Displays the list of guests using an ordered list.
 
   - Loads external CSS and JavaScript files.
 
@@ -54,3 +56,27 @@ event-guest-list/
   - Removing guests
 
   - Toggling RSVP status on button click
+
+##  How to Use
+
+  - Clone or download the repository
+
+  ```git clone https://github.com/your-username/event-guest-list.git```
+  ```cd event-guest-list```
+
+  - Open index.html in your browser
+
+    ```open index.html```
+
+  - Add guests
+
+      - Enter the name in the input field and click “Add Guest”
+
+      - Toggle RSVP status by clicking “Toggle RSVP”
+
+      - Remove a guest using the “Remove” button
+
+## Author
+
+Your Name: Griffins Ondeyo
+GitHub: @Griffinsshem
